@@ -1,11 +1,11 @@
 # GinHealth
 
-**GinHealth** é um aplicativo mobile desenvolvido com **React Native** e **Expo**, voltado para auxiliar usuários no acompanhamento de sua saúde física e bem-estar. Através de uma interface amigável, o app permite o cálculo de IMC, seleção de nível de atividade física e fornece orientações básicas com base nas informações inseridas.
+**GinHealth** é um aplicativo mobile desenvolvido com **React Native** e **Expo**, voltado para auxiliar usuários no acompanhamento de sua saúde física e bem-estar. Através de uma interface amigável, o app permite o cálculo de IMC, seleção de nível de atividade física e fornece orientações básicas (Taxa metabólica Básal) com base nas informações inseridas.
 
 ## Funcionalidades
 
 - Cálculo do Índice de Massa Corporal (IMC)
-- Cadastro de informações: sexo, idade, peso, altura e nível de atividade física
+- Cadastro de informações: sexo, idade, peso, altura e nível de atividade física (taxa básal)
 - Retorno de mensagens com base nos dados preenchidos
 - Navegação por abas para facilitar o uso
 - Feedback tátil em caso de preenchimento incorreto
