@@ -1,8 +1,8 @@
-# 🏃‍♀️ GinHealth
+# GinHealth
 
 **GinHealth** é um aplicativo mobile desenvolvido com **React Native** e **Expo**, voltado para auxiliar usuários no acompanhamento de sua saúde física e bem-estar. Através de uma interface amigável, o app permite o cálculo de IMC, seleção de nível de atividade física e fornece orientações básicas com base nas informações inseridas.
 
-## 📱 Funcionalidades
+## Funcionalidades
 
 - Cálculo do Índice de Massa Corporal (IMC)
 - Cadastro de informações: sexo, idade, peso, altura e nível de atividade física
@@ -10,7 +10,7 @@
 - Navegação por abas para facilitar o uso
 - Feedback tátil em caso de preenchimento incorreto
 
-## 🛠 Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 - **[React Native](https://reactnative.dev/)** – Framework para apps nativos multiplataforma
 - **[Expo](https://expo.dev/)** – Plataforma de desenvolvimento, build e testes
@@ -21,7 +21,7 @@
 - **Componentes do React Native** – `Text`, `View`, `TextInput`, `TouchableOpacity`, `ScrollView`, `KeyboardAvoidingView`, `Platform`
 - **API `Vibration`** – Utilizada para alertas de erro
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 
